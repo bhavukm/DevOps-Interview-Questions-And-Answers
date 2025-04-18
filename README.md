@@ -16,3 +16,5 @@ DevOps Interview Questions And Answers Part 1: https://youtu.be/fkv1hqnT4VA
 AWS and DevOps Interview: Practical Solutions to Scenarios: https://youtu.be/t0Uf-XA54ek
 
 AWS DevOps Questions and Answers Part 2: https://youtu.be/jk9ZWsIhATo
+
+50 Linux Interview Q&A: https://youtu.be/iHRr3dd0QG4
